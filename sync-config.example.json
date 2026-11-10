@@ -1,0 +1,6 @@
+{
+  "local_db": "data/reading_manager.db",
+  "remote_db": "C:/Users/you/OneDrive/DiscordBot/reading_manager.db",
+  "state_dir": ".sync",
+  "device_name": "desktop"
+}
